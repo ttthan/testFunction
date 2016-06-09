@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.unarin.cordova.beacon": {
+            "PACKAGE_NAME": "io.cordova.testFunction"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.cordova.testFunction"
+        },
+        "cordova-plugin-ble": {
+            "PACKAGE_NAME": "io.cordova.testFunction"
+        }
+    },
+    "dependent_plugins": {}
+}
